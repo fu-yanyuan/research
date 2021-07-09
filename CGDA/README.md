@@ -11,7 +11,7 @@ In 4.4.1 of this paper, I found some methods to generate sketches or lines.
 [Holistically-Nested Edge Detection](https://paperswithcode.com/paper/holistically-nested-edge-detection)  
 
 #### Apparent Ridges(AR)
-[apparent ridges for line drawings](apparent ridges for line drawings)  
+[apparent ridges for line drawings](https://people.csail.mit.edu/tjudd/apparentridges.html)  
 
 #### Suggestive Contours  
 [Suggestive Contours](https://gfx.cs.princeton.edu/proj/sugcon/)  
