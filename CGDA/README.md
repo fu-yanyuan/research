@@ -4,7 +4,7 @@ CGDA: computer-generated drawing approximation
 ### backgroud  
 I need to do some research on sketch and drawing stuff.  
 I begin with a paper given by Matsui-sensei:  
-[Tracing Versus Freehand for Evaluating Computer-Generated Drawings]  
+[Tracing Versus Freehand for Evaluating Computer-Generated Drawings](http://tracer.cs.yale.edu:8000/tracing-vs-freehand/)  
 In 4.4.1 of this paper, I found some methods to generate sketches or lines.  
 
 #### HED  
