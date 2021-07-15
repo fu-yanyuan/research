@@ -1,6 +1,13 @@
-nerf
+nerf 
 ---  
 
+understanding nerf  
+[SE(3)](https://zhuanlan.zhihu.com/p/88771394) in Chinese  
+[notes about nerf](https://zhuanlan.zhihu.com/p/360365941) in Chinese  
+
+
+nerf related works  
+[nerf--](https://nerfmm.active.vision/)
 [edit nerf](https://github.com/stevliu/editnerf)  
 
 [sketchDL](https://sketchdl.github.io/)
