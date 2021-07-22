@@ -10,4 +10,4 @@ in [NeRF--], camera parameters consists of intrinsic part and extrinsic part.
 > ####
 > Camera extrinsics. the camera extrinsic parameters determine the position and orientation of the camera,  
 > expressed as a transformation matrix T=[R|t]  
-> explation of SE(3)  
+> explation of [SE(3)](https://zhuanlan.zhihu.com/p/88771394) in Chinese  
