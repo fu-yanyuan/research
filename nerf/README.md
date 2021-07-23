@@ -8,6 +8,7 @@ understanding nerf
 
 nerf related works  
 [nerf--](https://nerfmm.active.vision/)  
+[nerf-- wail through](https://colab.research.google.com/drive/1pRljG5lYj_dgNG_sMRyH2EKbpq3OezvK?usp=sharing)  
 [nerf++](https://github.com/Kai-46/nerfplusplus)  
 [edit nerf](https://github.com/stevliu/editnerf)  
 
