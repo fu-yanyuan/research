@@ -4,7 +4,7 @@ some papers using GAN or other methods to generate sketches.
 2. [textureGAN](https://github.com/janesjanes/Pytorch-TextureGAN)  
 3. [sketch your own GAN](https://www.youtube.com/watch?v=YSGr2Y5cGBo) [github](https://github.com/PeterWang512/GANSketching)
 4. [styleGAN](https://github.com/NVlabs/stylegan) [style gan pytorch](https://github.com/rosinality/stylegan2-pytorch)
-5. photosketching [project page](http://www.cs.cmu.edu/~mengtial/proj/sketch/)  [github](https://github.com/mtli/PhotoSketch)  
+5. photosketching [[project page](http://www.cs.cmu.edu/~mengtial/proj/sketch/)]  [github](https://github.com/mtli/PhotoSketch)  
 6. 
 
 [im2pencil](https://arxiv.org/abs/1903.08682)  
