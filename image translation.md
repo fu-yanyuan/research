@@ -8,11 +8,8 @@ style transfer   image translation
 [How do humans sketch objects, SIGGRAPH2021](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)  
 [sketch based image retreval](https://paperswithcode.com/task/sketch-based-image-retrieval)
 [deep shape matching ](https://paperswithcode.com/paper/deep-shape-matching)  
+[paper with code](https://paperswithcode.com/dataset/sketch)
 
 
 #### dataset  
 [quickdraw-dataset](https://github.com/googlecreativelab/quickdraw-dataset)  
-
-
-
-[How ]()  
