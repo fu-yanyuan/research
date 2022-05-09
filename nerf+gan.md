@@ -1,6 +1,7 @@
 ### selfie  
 [selfie2anime](https://paperswithcode.com/dataset/selfie2anime)  
-2D image 2 anime  
+
+2D image 2 anime with GAN  
 [UGATIT github](https://github.com/taki0112/UGATIT)  
 [Making Anime Faces With StyleGAN](https://www.gwern.net/Faces#)
 
