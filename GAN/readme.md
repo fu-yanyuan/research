@@ -1,6 +1,19 @@
 progress
 ---  
 
+### CVPR22
+https://github.com/amusi/CVPR2022-Papers-with-Code#gan.  
+
+found 2 might be helpful. to check.   
+[styleGAN-v](https://universome.github.io/stylegan-v)  
+in this paper, apparently that 3D consistency have some space for improving.
+"design continuous motion representations through the lens of positional embeddings." what does this mean. can this be utilized in our thoughts?  
+CHECK IN DETAIL !
+
+[style transformer](https://github.com/sapphire497/style-transformer)
+
+----------------------
+
 1. skip some very beginning papers of GAN.
 
 
@@ -45,6 +58,8 @@ style images.  [wikiarts](https://www.kaggle.com/competitions/painter-by-numbers
 https://people.csail.mit.edu/smirnov/deep-currents/.
 
 https://arxiv.org/pdf/2003.07254.pdf. 
+
+
 
 
 
