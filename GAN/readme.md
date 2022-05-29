@@ -10,7 +10,11 @@ in this paper, apparently that 3D consistency have some space for improving.
 "design continuous motion representations through the lens of positional embeddings." what does this mean. can this be utilized in our thoughts?  
 CHECK IN DETAIL !
 
-[style transformer](https://github.com/sapphire497/style-transformer)
+[style transformer](https://github.com/sapphire497/style-transformer).  
+
+
+#### GAN in CVPR22
+https://www.zhihu.com/people/ke-zhan-shen
 
 ----------------------
 
