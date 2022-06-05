@@ -7,7 +7,7 @@ Let's have a more detailed look at it and to learn more about recent sketching m
 ----------
 
 ## CLIPASSO: Semantically-Aware Object Sketching 
-a method that ultilize [CLIP](https://openai.com/blog/clip/) for abstraction. 
+a method that ultilize [CLIP](https://github.com/fu-yanyuan/research/blob/main/Papers/CLIP.md) for abstraction. 
 CLIPdraw [link]() may also help.  
 
 
