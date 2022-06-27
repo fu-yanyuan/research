@@ -20,3 +20,9 @@ find more emoji shortcodes [👍](https://gist.github.com/rxaviers/7360908)
 12. ⭐ [NeRFusion](https://jetd1.github.io/NeRFusion-Web/) for yamashita-kun?
 13. ⭐ [Variable Bitrate Neural Fields](https://nv-tlabs.github.io/vqad/) for games ?
 14. ⭐⭐ [keypointNeRF](https://markomih.github.io/KeypointNeRF/) can we use this for fix lines? 
+15. ⭐ [volume rendering in neural implicit surfaces](https://papers.nips.cc/paper/2021/file/25e2a30f44898b9f3e978b1786dcd85c-Paper.pdf) for yamashita-kun?
+16. ⭐⭐ [block-nerf](https://arxiv.org/pdf/2202.05263.pdf) check figure 3
+17. ⚠️ [diet nerf](https://xpaperchallenge.org/cv/survey/iccv2021_summaries/24/) check it now! CLIP? [here](https://www.ajayj.com/dietnerf)
+18. ⭐⭐ [Nerfies](https://openaccess.thecvf.com/content/ICCV2021/papers/Park_Nerfies_Deformable_Neural_Radiance_Fields_ICCV_2021_paper.pdf)
+19. ⭐⭐ [Pastiche Master] CVPR22 a very good style transfer even for views. [video](https://www.youtube.com/watch?v=scZTu77jixI)
+20. 
