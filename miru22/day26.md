@@ -63,7 +63,7 @@ __Q__: Can this modle detect the surface of the glass box (transparency material
 __A__: Yes, where offset is 0. ...  
 
 __Q__: Can we recover the normal object images from your model?  
-__A__: Yes, just use F only as a trained NeRF, you can have the original object without transparency materials. (‼️ I asked him again to confirm this). 
+__A__: Yes, just use F only as a trained NeRF, you can have the original object without transparency materials. (‼️ I asked him again to confirm this).  
 __Q__: That's really impressive. You use images of objects in that glass box, which means there are light refractions. How does the model just seperate the knowledge of the objects and the glass material (or light refraction law?) into these two network, F and G, respectively.  
 
 - I want to check this. If this works, it means that we can just remove the effect or add a surrounding transparency material to a object? Which is close to what Matsui-sensei talked, like object in a water or something. or if the "effect" in one case is learned separately by that G, can we extend this G to other trained normal NeRF to give them such effect? I don't know, just some thoughts, we can discuss it.
