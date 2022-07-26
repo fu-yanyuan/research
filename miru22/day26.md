@@ -34,14 +34,16 @@ __Q__: is any chance that there are some more complex relations between the resu
 __A__: that's good idea and we haven't consider that. but there is a work split nerf to three axes. (And he show me a work called CoordX). This work split to x, y, z and send the results to aother network ( to find the relations and get the final results? ) ( I haven't check it.) but for inference, this final network is also big to cache.
 
 
-- (CoordX)[https://openreview.net/forum?id=oAy7yPmdNz]
+- [CoordX](https://openreview.net/forum?id=oAy7yPmdNz)
 
 
 
 ### 2️⃣ OL2B-2: Light bending, LB-NeRF
 
 - objects in the transparency material with light refraction. so that the ray cannot be a straight line.
+- offset network
 
+[](LB-NeRF.png)
 
 __Q__: why oringial NeRF doesn't work? The results of original NeRF seems  
 __A__: 
