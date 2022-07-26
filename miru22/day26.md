@@ -41,11 +41,29 @@ __A__: that's good idea and we haven't consider that. but there is a work split 
 ### 2️⃣ OL2B-2: Light bending, LB-NeRF
 
 - objects in the transparency material with light refraction. so that the ray cannot be a straight line.
-- offset network
+- offset network G + normal NeRF network F
 
-[](LB-NeRF.png)
+![](LB-NeRF.png)
 
-__Q__: why oringial NeRF doesn't work? The results of original NeRF seems  
-__A__: 
+__Q__: why oringial NeRF doesn't work? The results of original NeRF seems can still detect the transparency material, although images are blurry. can it be optimized?  
+__A__: the ray is not straight in this case. ...  (I am thinking about something and I just remmember the first sentence. 😅)
+
+- because in my opinion, I think no matter what objects are in the scene and what images can we observe at different view, as long as its 3D consistency, NeRF should be able to modle that scene. (I am still a little confused about why it don't work)
+
+__Q__: How do you train your model. Do you train these two networks togeter?  
+__A__: Yes, we just train them together using the training data.  
+
+__Q__: Do they (G and F) have the same architecture? if so, I notice that the inputs type are the same, why can not one network works.  
+__A__: NO, they are not the same. F is just the original NeRF network architecture and G, offset network is a normal MLP.  
+__Q__: Oh, I see. In F, d and x are not inputed to the network at the same time. x first and d are inputed to some layers later. How about G?  
+__A__: Yes, G doen't have the position encoding as F, and x and d are concatenated as inputs.  
 
 
+__Q__: Can this modle detect the surface of the glass box (transparency material)? or the shape of it?  
+__A__: Yes, where offset is 0. ...  
+
+__Q__: Can we recover the normal object images from your model?  
+__A__: Yes, just use F only as a trained NeRF, you can have the original object without transparency materials. (‼️ I asked him again to confirm this). 
+__Q__: That's really impressive. You use images of objects in that glass box, which means there are light refractions. How does the model just seperate the knowledge of the objects and the glass material (or light refraction law?) into these two network, F and G, respectively.  
+
+- I want to check this. If this works, it means that we can just remove the effect or add a surrounding transparency material to a object? Which is close to what Matsui-sensei talked, like object in a water or something. or if the "effect" in one case is learned separately by that G, can we extend this G to other trained normal NeRF to give them such effect? I don't know, just some thoughts, we can discuss it.
