@@ -38,3 +38,12 @@ __A__: that's good idea and we haven't consider that. but there is a work split 
 
 
 
+### 2️⃣ OL2B-2: Light bending, LB-NeRF
+
+- objects in the transparency material with light refraction. so that the ray cannot be a straight line.
+
+
+__Q__: why oringial NeRF doesn't work? The results of original NeRF seems  
+__A__: 
+
+
